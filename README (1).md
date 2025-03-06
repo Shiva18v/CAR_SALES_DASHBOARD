@@ -64,9 +64,12 @@ This project demonstrates proficiency in data visualization and analysis using P
 
 
 ## Screenshots of Dashboard
-
+![sssss1](https://github.com/user-attachments/assets/3dbc2f89-fa59-43d0-98a0-774963534f27)
+![ssssss2](https://github.com/user-attachments/assets/a06d9198-dcd3-4f5c-aa84-955ffb55210e)
+![sssss3](https://github.com/user-attachments/assets/985e2f87-7f49-4063-9e5f-dc688c94e86e)
 
 ## Project Files:
+
 
 The project files are organized within the downloaded folder.
 
