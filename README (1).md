@@ -35,10 +35,7 @@ This project demonstrates proficiency in data visualization and analysis using P
 - Car-Sales_Dashboard.pbix:- The Power BI dashboard file.
 - data:- An Excel file containing the data used for the dashboard.
 - README.md:- This project overview file.
-##  Project structure
-- Car-Sales_Dashboard.pbix:- The Power BI dashboard file.
-- data:- An Excel file containing the data used for the dashboard.
-- README.md:- This project overview file.
+
 ## Getting start with car_sales dashboard
   
 1. Download the Project:
